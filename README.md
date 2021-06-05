@@ -10,6 +10,9 @@ Task Description
 3. Inside the Container you need to copy/create machine learning model and train it.
 
 
+https://www.linkedin.com/pulse/deploy-machine-learningml-model-docker-container-arbaz-khan/?trackingId=nQzf%2BgNo%2FQXVCOy4akJKbA%3D%3D
+
+
 
 Step 1: Install Docker
 
