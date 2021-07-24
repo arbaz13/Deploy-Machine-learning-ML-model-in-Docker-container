@@ -14,13 +14,13 @@ I
 
 #load LinearRegression
 
-from sklearn.linear module import LinearRegression
- model= LinearRegression() 
+from sklearn.linear_module import LinearRegression
+model= LinearRegression() 
 model.fit(feature, target)
 
 # model is trained
  #predict
 
 exp= float(input("Enter Your Experience: "))
- pred = model.pridct([[exp]])
- print("Expected Salary is", round (pred[0],2). "INR")
+pred = model.pridct([[exp]])
+print("Expected Salary is", round (pred[0],2). "INR")
